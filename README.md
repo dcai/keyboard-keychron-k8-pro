@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/7065/172011530-6436185e-9976-4ceb-b5f2-34ff90940a53.png)
 
 
-My first keyboard which support [VIA]([url](https://github.com/the-via)) out of box, which means I can customize any keys.
+My first keyboard which supports [VIA]([url](https://github.com/the-via)) out of box, which means I can customize any keys.
 
 ## Pros:
 - Solid build
