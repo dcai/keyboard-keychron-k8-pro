@@ -1,5 +1,5 @@
 {
-  "name": "Keychron Q8",
+  "name": "Keychron Q8 Knob",
   "vendorProductId": 875823489,
   "macros": ["", "", "", "", "", "", "", "", "", "", "", "", "", "", "", ""],
   "layers": [
@@ -188,7 +188,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_BSPC",
       "KC_MINS",
       "KC_UNDS",
       "KC_GRV",
@@ -265,7 +265,7 @@
       "KC_TRNS",
       "KC_TRNS",
       "KC_TRNS",
-      "KC_TRNS",
+      "KC_BSPC",
       "KC_4",
       "KC_5",
       "KC_6",
