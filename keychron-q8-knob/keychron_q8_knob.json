@@ -64,7 +64,7 @@
       "LT(3,KC_SLSH)",
       "KC_RSFT",
       "KC_UP",
-      "KC_LCTL",
+      "MT(MOD_LCTL,KC_ESC)",
       "USER02",
       "USER04",
       "SPC_FN3",
