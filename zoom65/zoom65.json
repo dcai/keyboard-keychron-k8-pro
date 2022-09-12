@@ -64,7 +64,7 @@
       "KC_RSFT",
       "KC_UP",
       "KC_PGDN",
-      "KC_LCTL",
+      "MT(MOD_LCTL,KC_ESC)",
       "KC_LALT",
       "KC_LGUI",
       "KC_VOLU",
